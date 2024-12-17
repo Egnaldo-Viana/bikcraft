@@ -1,5 +1,5 @@
 # Bikcraft - Bicicletas Elétricas
-Este projeto apresenta uma página institucional da Bikcraft, uma marca fictícia de bicicletas elétricas feitas sob medida. O layout foi inicialmente desenvolvido no Figma e, em seguida, implementado com HTML, CSS (incluindo Flexbox e Grid) e JavaScript para criar uma experiência visual agradável e responsiva.
+Este projeto foi desenvolvido durante o curso html da Origamid, onde apresenta uma página institucional da Bikcraft, uma marca fictícia de bicicletas elétricas feitas sob medida. O layout foi inicialmente desenvolvido no Figma e, em seguida, implementado com HTML, CSS (incluindo Flexbox e Grid) e JavaScript para criar uma experiência visual agradável e responsiva.
 
 ### Tecnologias Utilizadas:
 + HTML5: Para a estruturação do conteúdo.  
